@@ -1,0 +1,17 @@
+com\mockaroo\domain\WsClientSubscribers$2.class
+com\mockaroo\dto\RespuestaDto.class
+com\mockaroo\dto\Parameter.class
+com\mockaroo\PruebaMockarooApplication.class
+com\mockaroo\domain\WsSubscribersService.class
+com\mockaroo\dto\ResponseTokenDto.class
+com\mockaroo\domain\WsClientSubscribers$1.class
+com\mockaroo\domain\WsClientSubscribers.class
+com\mockaroo\domain\WsSubscribersService$1.class
+com\mockaroo\controller\WsMockarooController.class
+com\mockaroo\dto\Subscriber.class
+com\mockaroo\dto\Type.class
+com\mockaroo\service\IWsMockarooService.class
+com\mockaroo\domain\WsSubscribersService$2.class
+com\mockaroo\dto\SubscriberResponseDto.class
+com\mockaroo\exeptions\FailCommunicationException.class
+com\mockaroo\dto\Response.class
